@@ -7,7 +7,7 @@ Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about St
 
 
 
-# Files
+# Files ddd
 
 StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
 
@@ -146,5 +146,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzcxNTY1MzM5LC0zMzI0NTUzNjNdfQ==
+eyJoaXN0b3J5IjpbMTE4OTQ4NjE2NywzNzE1NjUzMzksLTMzMj
+Q1NTM2M119
 -->
